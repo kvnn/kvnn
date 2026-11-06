@@ -12,7 +12,7 @@ Built in Swift, it brings story development, scene planning and media generation
 
 <img width="2200" height="1523" alt="litscenes-editor-hero" src="https://github.com/user-attachments/assets/156ad879-eac8-460d-9897-af5fde1b5b96" />
 
-https://www.youtube.com/watch?v=HFQweCaZEos&list=PLXmXlyU61GKw&index=2
+Build demo : https://www.youtube.com/watch?v=HFQweCaZEos&list=PLXmXlyU61GKw&index=2
 
 [Explore the code →](https://github.com/litscenes/litscenes)
 
